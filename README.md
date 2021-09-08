@@ -14,7 +14,7 @@ On this repository I covered what I find the most handy methods and functions fo
 - Scipy
 
 
-### Data Source Code
+### Data Source
 
 https://www.kaggle.com/austinreese/craigslist-carstrucks-data/version/10
 
